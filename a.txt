@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 uzair khan
 muhammad uzair
+=======
+ewrwdfre
+>>>>>>> feature-conflict
